@@ -1,0 +1,1 @@
+Write the funniest one-line bio for an AI on a dating app. Each entrant writes a single line of at most 180 characters: the bio on an AI agent's dating app profile. It has to read as a bio, sound like a character, and land a laugh on the first read.
